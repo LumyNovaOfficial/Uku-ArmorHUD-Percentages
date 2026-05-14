@@ -41,3 +41,8 @@ replay_*.log
 .codex/
 build/
 .gradle/
+.codex/
+.editorconfig
+.gitattributes
+changelog.md
+settings.gradle.bak-buildsplit
